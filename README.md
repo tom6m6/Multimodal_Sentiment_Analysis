@@ -194,34 +194,34 @@ python utils/predict_linear_probe.py --batchsize 128
 
 ## 引用&参考
 
-[^1]: Transformer架构的整体指南: https://luxiangdong.com/2023/09/10/trans/#/
+[1]: Transformer架构的整体指南: https://luxiangdong.com/2023/09/10/trans/#/
 
-[^2]: Zi-Yi Dou, et al. An Empirical Study of Training End-to-End Vision-and-Language Transformers [J]. arXiv preprint arXiv: 2111.02387
+[2]: Zi-Yi Dou, et al. An Empirical Study of Training End-to-End Vision-and-Language Transformers [J]. arXiv preprint arXiv: 2111.02387
 
-[^3]: Dosovitskiy, Alexey, et al. An image is worth 16x16 words: Transformers for image recognition at scale. arXiv preprint arXiv:2010.11929 (2020).
+[3]: Dosovitskiy, Alexey, et al. An image is worth 16x16 words: Transformers for image recognition at scale. arXiv preprint arXiv:2010.11929 (2020).
 
-[^4]: 狗都能看懂的Vision Transformer的讲解和代码实现vision transformer代码-CSDN博客: https://blog.csdn.net/weixin_42392454/article/details/122667271
+[4]: 狗都能看懂的Vision Transformer的讲解和代码实现vision transformer代码-CSDN博客: https://blog.csdn.net/weixin_42392454/article/details/122667271
 
-[^5]: ViT论文逐段精读【论文精读】: https://www.youtube.com/watch?v=FRFt3x0bO94
+[5]: ViT论文逐段精读【论文精读】: https://www.youtube.com/watch?v=FRFt3x0bO94
 
-[^6]: Liu, Yinhan, et al. Roberta: A robustly optimized bert pretraining approach. arXiv preprint arXiv:1907.11692.
+[6]: Liu, Yinhan, et al. Roberta: A robustly optimized bert pretraining approach. arXiv preprint arXiv:1907.11692.
 
-[^7]: Kaiming He, et al: Deep residual learning for image recognition, 2016. arXiv:1512.03385
+[7]: Kaiming He, et al: Deep residual learning for image recognition, 2016. arXiv:1512.03385
 
-[^8]: 论文精读: https://www.youtube.com/playlist?list=PLFXJ6jwg0qW-7UM8iUTj3qKqdhbQULP5I
+[8]: 论文精读: https://www.youtube.com/playlist?list=PLFXJ6jwg0qW-7UM8iUTj3qKqdhbQULP5I
 
-[^9]: CLIP 论文逐段精读【论文精读】: https://www.youtube.com/watch?v=OZF1t_Hieq8
+[9]: CLIP 论文逐段精读【论文精读】: https://www.youtube.com/watch?v=OZF1t_Hieq8
 
-[^10]:  Alec Radford, et al. Learning transferable visual models from natural language supervision. International Conference on Machine Learning. PMLR, 2021. arXiv:2103.00020
+[10]:  Alec Radford, et al. Learning transferable visual models from natural language supervision. International Conference on Machine Learning. PMLR, 2021. arXiv:2103.00020
 
-[^11]: Why Pytorch officially use mean=[0.485, 0.456, 0.406] and std=[0.229, 0.224, 0.225] to normalize images?：  https://stackoverflow.com/questions/58151507/why-pytorch-officially-use-mean-0-485-0-456-0-406-and-std-0-229-0-224-0-2
+[11]: Why Pytorch officially use mean=[0.485, 0.456, 0.406] and std=[0.229, 0.224, 0.225] to normalize images?：  https://stackoverflow.com/questions/58151507/why-pytorch-officially-use-mean-0-485-0-456-0-406-and-std-0-229-0-224-0-2
 
-[^12]: Cheema, Gullal S., et al. A fair and comprehensive comparison of multimodal tweet sentiment analysis methods [J]. Proceedings of the 2021 Workshop on Multi-Modal Pre-Training for Multimedia Understanding. 2021.
+[12]: Cheema, Gullal S., et al. A fair and comprehensive comparison of multimodal tweet sentiment analysis methods [J]. Proceedings of the 2021 Workshop on Multi-Modal Pre-Training for Multimedia Understanding. 2021.
 
-[^13]: 深度学习基础系列（九）| Dropout VS Batch Normalization? 是时候放弃Dropout了 - 可可心心 - 博客园: https://www.cnblogs.com/hutao722/p/9946047.html
+[13]: 深度学习基础系列（九）| Dropout VS Batch Normalization? 是时候放弃Dropout了 - 可可心心 - 博客园: https://www.cnblogs.com/hutao722/p/9946047.html
 
-[^14]: Sergey Ioffe, et al. Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift. arXiv:1502.03167
+[14]: Sergey Ioffe, et al. Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift. arXiv:1502.03167
 
-[^15]: Sheng Shen, et al. PowerNorm: Rethinking Batch Normalization in Transformers. arXiv: 2003.07845
+[15]: Sheng Shen, et al. PowerNorm: Rethinking Batch Normalization in Transformers. arXiv: 2003.07845
 
-[^16]: https://github.com/cleopatra-itn/fair_multimodal_sentiment
+[16]: https://github.com/cleopatra-itn/fair_multimodal_sentiment
